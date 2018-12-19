@@ -1,4 +1,4 @@
-# Kamus sederhana
+# Kamus sederhana for pc/laptop and mobile
 
 ## Kamus Indonesia-Inggris dan Inggris-Indonesia
 
